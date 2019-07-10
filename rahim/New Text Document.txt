@@ -1,0 +1,1 @@
+This is a LCD control program. if anyone show this project. at first you can download and install protious and mircoC. 
